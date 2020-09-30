@@ -1,5 +1,5 @@
 # Dino_game_control_with_python
-<p> This python program will wish your friends at 12 am on their birthday by sending a SMS. </p>
+<p> This python program will run the dino game with game controls </p>
 
 # Developed Using:
 <ul>
